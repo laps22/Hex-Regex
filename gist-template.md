@@ -23,7 +23,7 @@ This regular expression is looking for a string that starts with an optional "#"
 ## Regex Components
 
 I will breakdown the regex into its components and explain what each component does.
-Keep in mind that the order of the components is important.
+
 `#?` - The question mark (`?`) is a metacharacter that indicates that the preceding character or group is optional. In this case, it matches an optional `#` character at the beginning of the string.
 
 ### Anchors
